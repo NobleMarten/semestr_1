@@ -1,0 +1,8 @@
+Olimpiad
+Russia USA China France Germany
+Gold Silver Bronze
+15 25 22
+20 15 10
+21 40 12
+5 10 18
+12 14 16
