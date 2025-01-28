@@ -1,4 +1,5 @@
 // 1.8 1a 1v 3a
+
 #include <iostream>
 #include <cmath>
 #include <fstream>
@@ -113,7 +114,6 @@ int main() {
     show(out, a, x, n);
     del_arr(x, n);
     out.close();
-
 
     return 0;
 }
